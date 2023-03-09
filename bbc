@@ -1,11 +1,11 @@
-To  check last commit of each branch
-	git branch -v
-This will show you all the local and remote branches in your Git repository
-	git branch -a
-This will list all the local branches in your Git repository. The current branch will be indicated with an asterisk (*).
-	git branch
-This will display the remote repository's URL, as well as the fetch and push URLs associated with it.
-	git remote -v
-This will display the usernames and email addresses that are currently set for your Git configuration, along with the files where they are set.
-	git config --list --show-origin | grep user
+intentiallyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+removedddddddddddddddddd
+
+
+
+
+
+
+
+
 
